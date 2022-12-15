@@ -1,0 +1,9 @@
+{
+  "material-icon-theme.activeIconPack": "nest",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+}
